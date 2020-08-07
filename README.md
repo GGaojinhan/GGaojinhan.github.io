@@ -1,1 +1,1 @@
-![baidu](https://github.com/GGaojinhan/GGaojinhan.github.io/blob/master/iusa.jpg)
+![baidu](http://www.baidu.com/img/bdlogo.gif "百度logo") 
